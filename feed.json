@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nashra&#x27;s Website",
+    "description": "",
+    "home_page_url": "https://nashra94.github.io/publiisite",
+    "feed_url": "https://nashra94.github.io/publiisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nashra Mahmood"
+    },
+    "items": [
+    ]
+}
